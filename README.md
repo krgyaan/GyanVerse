@@ -1,3 +1,6 @@
+![gyanverse](https://github.com/GyanPrakashKumar/GyanVerse/assets/100079802/ad5bfad5-9a07-469d-a806-af9465a8c903)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
